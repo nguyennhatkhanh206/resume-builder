@@ -1,0 +1,5 @@
+https://blog.emacsos.com/bootstrap-a-python-project.html#sec-1 
+
+1) Install Python and setup 
+2) Install GIT 
+2) Install pip install virtualenv
