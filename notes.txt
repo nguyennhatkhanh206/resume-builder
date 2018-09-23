@@ -3,3 +3,17 @@ https://blog.emacsos.com/bootstrap-a-python-project.html#sec-1
 1) Install Python and setup 
 2) Install GIT 
 2) Install pip install virtualenv
+
+
+https://gist.github.com/bradmontgomery/1872970 
+https://www.digitalocean.com/community/tutorials/how-to-work-with-web-data-using-requests-and-beautiful-soup-with-python-3 
+Request: get data 
+https://realpython.com/python-web-scraping-practical-introduction/ 
+BS4 (BeautifulSoup4): extractor 
+
+Django 
+https://docs.djangoproject.com/en/2.1/topics/install/#installing-development-version 
+https://docs.djangoproject.com/en/2.1/intro/tutorial01/ 
+
+Django with MongoDB
+djongo
